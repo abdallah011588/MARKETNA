@@ -43,14 +43,17 @@ https://github.com/abdallah011588/MARKETNA_Delivery
 **Admin App:**
 🔗 linke to app github 
 https://github.com/abdallah011588/MARKETNA_Admin
-1. **Order and User Management:**
-   - Empowers administrators to oversee order processing, manage user accounts, and monitor system analytics.
+1. **Category and Product Management:**
+   - Empowers administrators to edit and add new categories and products, ensuring a dynamic and up-to-date product catalog.
 
-2. **Real-time Analytics:**
-   - Utilizes Firebase Messaging for real-time updates on key analytics and system performance.
+2. **Order Processing:**
+   - Provides features for administrators to accept user orders, enhancing control over the order fulfillment process.
 
 3. **Localization:**
-   - Supports both Arabic and English languages to facilitate administration in diverse settings.
+   - Supports both Arabic and English languages for effective administration.
+
+4. **Notification System:**
+   - Utilizes Firebase Messaging to notify administrators of new orders and important updates.
 
 **Backend:**
 1. **Backend Technology:**
